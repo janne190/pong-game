@@ -19,8 +19,8 @@ A classic Pong game written entirely in ARM Assembly, running inside a custom Py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/arm-assembly-pong.git
-   cd arm-assembly-pong
+   git clone https://github.com/janne190/pong-game.git
+   cd pong-game
    ```
 
 2. Install the required dependencies:
